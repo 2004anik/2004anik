@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket Singh 
-- 👀 I’m interested in Mobile Devlopement both IOS , Andorido & Web devlopment 
+- 👀 I’m interested in Mobile Devlopement & Web Development 
 - 🌱 I’m currently learning CSE 1st year student at SPPU , Upskilling myself in C++
-- 💞️ I’m looking to collaborate on IOS Devlopment 
+- 💞️ I’m looking to collaborate on IOS Development 
 - 📫 How to reach me at Linkedin @Aniket Singh , Email me :- aniket.a.singh5@gmail.com
 
 <!---
